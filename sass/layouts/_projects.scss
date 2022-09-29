@@ -1,22 +1,9 @@
 .projects {
-  padding-top: 0;
-}
-
-.projects__list {
   display: flex;
 }
 
 .projects__item + .projects__item {
   padding-left: 30px;
-}
-
-.projects__title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.17;
-  text-align: center;
-  letter-spacing: 0.03em;
-  margin-bottom: 50px;
 }
 
 .thumb {
